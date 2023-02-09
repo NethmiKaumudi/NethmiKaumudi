@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello IJSE
+Go to IJSE page [IJSE](https://www.ijse.lk/).
