@@ -1,8 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nethmi Kaumudi</h1>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
