@@ -1,8 +1,9 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nethmi Kaumudi</h1>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1218017051%2Fphoto%2Fprofile-side-photo-of-concentrated-skilled-web-expert-afro-american-girl-sit-evening-desk-use.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DdQJAXyU20JuCfY594PIBgl3RgMHnDyEWC9VF6vOFBkg%3D&tbnid=oGvcpbCNO3j2OM&vet=12ahUKEwi9_YPvkej9AhU0_TgGHUTHCHQQMygCegUIARDCAQ..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fwoman-computer-programmer&docid=J4t2MxMzKktpwM&w=612&h=408&q=developer%20girl&hl=si&ved=2ahUKEwi9_YPvkej9AhU0_TgGHUTHCHQQMygCegUIARDCAQ">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
