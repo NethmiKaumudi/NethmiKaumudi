@@ -14,7 +14,19 @@
     </p>
 
 <p align="left">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
+<div align="right" style="margintop:20px; @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }">
+   <img  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706313600&semt=sph"height="150" width="200">
 
+ </div>
 <h3 align="center" style="color:#00ADB5; margingtop:20px;" >Connect with me:</h3>
   <p align="center">
    <a href="https://linkedin.com/in/nethmikaumudi" target="blank"><img align="center"
