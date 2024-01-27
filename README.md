@@ -30,18 +30,6 @@
 <a href="https://www.leetcode.com/nethmikaumudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nethmikaumudi" height="30" width="40" /></a>
         <!-- Add other social media links here -->
     </p>
-    <style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
     <div align="center" style="margintop:40px; animation: fadeIn 2s ease-out;">
    <img  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706313600&semt=sph"height="150" width="200">
 
