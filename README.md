@@ -34,11 +34,11 @@
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="50" width="60" style="margingleft:5px;" >
 
-   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
+   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50" width="60" >
 
-   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
+   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="50" width="60" >
 
-   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
+   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="50" width="60" >
 
    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
 
