@@ -30,7 +30,7 @@
     <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" height="50" width="60"style="margingleft:5px;" >
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" height="50" width="70"style="margingleft:5px;" >
 
-   <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" height="50" width="60" style="margingleft:5px;" >
+   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="50" width="60" style="margingleft:5px;" >
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" height="50" width="60" style="margingleft:5px;" >
 
