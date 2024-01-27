@@ -15,16 +15,7 @@
 
 <p align="left
  ">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
-<div align="left" style="margintop:20px; borderradius:10px; @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: translateY(-20px);
-    }
-    100% {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }">
+<div align="left" style="margintop:20px; borderradius:10px; animation: fadeIn 2s ease-out">
    <img  src="https://thumbs.dreamstime.com/b/%C3%A9criture-9812125.jpg"height="100" width="200">
 
  </div>
@@ -39,7 +30,8 @@
 <a href="https://www.leetcode.com/nethmikaumudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nethmikaumudi" height="30" width="40" /></a>
         <!-- Add other social media links here -->
     </p>
-    <div align="right" style="margintop:20px; @keyframes fadeIn {
+    <style>
+  @keyframes fadeIn {
     0% {
       opacity: 0;
       transform: translateY(-20px);
@@ -48,7 +40,9 @@
       opacity: 1;
       transform: translateY(0);
     }
-  }">
+  }
+</style>
+    <div align="center" style="margintop:20px; animation: fadeIn 2s ease-out;">
    <img  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706313600&semt=sph"height="150" width="200">
 
  </div>
