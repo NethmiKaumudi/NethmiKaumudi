@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span  style="color: #00ADB5;">Nethmi Kaumudi</span> </h1>
  <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&psig=AOvVaw3Xx5XnegsourpJIz8yqhCR&ust=1706457350232000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCujpX3_YMDFQAAAAAdAAAAABAD" alt="Nethmi Kaumudi's Image">
-<img src="![GIF](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)">
-<img src="![Image](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)
-">
-![Image](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&psig=AOvVaw3Xx5XnegsourpJIz8yqhCR&ust=1706457350232000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCujpX3_YMDFQAAAAAdAAAAABAD">
 
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmikaumudi&label=Profile%20views&color=0e75b6&style=flat" alt="nethmikaumudi" /> </p>
