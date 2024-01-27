@@ -24,8 +24,9 @@
     </p>
  <h3 align="center">Languages and Tools:</h3>
    <p align="center">
-<img src="https://logos-world.net/java-logo/">
-
-     </p>
+<img src="    https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fjava-logo%2F&psig=AOvVaw3YFJkfAm0ctmF9X8zvoryr&ust=1706458373027000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi2tfz6_YMDFQAAAAAdAAAAABAD">
+    <img src="  https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.jpg"> 
+   ![image](https://github.com/NethmiKaumudi/NethmiKaumudi/assets/118107008/6ce0d448-f2c1-4ea8-9b33-d54473a855a4)
+</p>
    
     
