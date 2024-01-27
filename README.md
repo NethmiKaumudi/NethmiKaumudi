@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm <span  style="color: #00ADB5;">Nethmi Kaumudi</span> </h1>
  <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&psig=AOvVaw3Xx5XnegsourpJIz8yqhCR&ust=1706457350232000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCujpX3_YMDFQAAAAAdAAAAABAD" alt="Nethmi Kaumudi's Image">
+![GIF](https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif)
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmikaumudi&label=Profile%20views&color=0e75b6&style=flat" alt="nethmikaumudi" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=nethmikaumudi" alt="nethmikaumudi" /></a> </p>
@@ -24,9 +26,7 @@
     </p>
  <h3 align="center">Languages and Tools:</h3>
    <p align="center">
-<img src="    https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Fjava-logo%2F&psig=AOvVaw3YFJkfAm0ctmF9X8zvoryr&ust=1706458373027000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi2tfz6_YMDFQAAAAAdAAAAABAD">
-    <img src="  https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.jpg"> 
-   ![image](https://github.com/NethmiKaumudi/NethmiKaumudi/assets/118107008/6ce0d448-f2c1-4ea8-9b33-d54473a855a4)
+
 </p>
    
     
