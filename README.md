@@ -25,6 +25,6 @@
     </p>
  <h3 align="center">Languages and Tools:</h3>
    <p align="center">
-    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"
+    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="30" width="40" >
 </p>
 
