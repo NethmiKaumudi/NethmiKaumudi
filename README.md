@@ -12,7 +12,7 @@
 
 <p align="left">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
 
-<h3 align="center" style="color: #00ADB5;" >Connect with me:</h3>
+<h3 align="center" style="color:#00ADB5;" >Connect with me:</h3>
   <p align="center">
    <a href="https://linkedin.com/in/nethmikaumudi" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -27,10 +27,10 @@
    <p align="center">
     <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
     <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="50" width="60" style="margingleft:5px;" >
-    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" height="50" width="60" >
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" height="50" width="70" >
+    <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" height="50" width="60"style="margingleft:5px;" >
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" height="50" width="70"style="margingleft:5px;" >
 
-   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
+   <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" style="margingleft:5px;" >
 
    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
 
