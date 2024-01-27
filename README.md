@@ -15,7 +15,7 @@
 
 <p align="left
  ">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
-<div align="left" style="margintop:20px; borderradius:10px; animation: fadeIn 2s ease-out">
+<div align="center" style="margintop:20px; borderradius:10px; animation: fadeIn 2s ease-out">
    <img  src="https://thumbs.dreamstime.com/b/%C3%A9criture-9812125.jpg"height="100" width="200">
 
  </div>
@@ -42,7 +42,7 @@
     }
   }
 </style>
-    <div align="center" style="margintop:20px; animation: fadeIn 2s ease-out;">
+    <div align="center" style="margintop:40px; animation: fadeIn 2s ease-out;">
    <img  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706313600&semt=sph"height="150" width="200">
 
  </div>
