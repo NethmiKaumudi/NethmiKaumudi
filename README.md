@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethmi Kaumudi</h1>
  <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
-  <img src="https://via.placeholder.com/150" alt="Nethmi Kaumudi's Image">
+  <img src="![image](https://github.com/NethmiKaumudi/NethmiKaumudi/assets/118107008/4f28e4ef-4642-40c1-8dba-3f1f78ee548e)
+" alt="Nethmi Kaumudi's Image">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmikaumudi&label=Profile%20views&color=0e75b6&style=flat" alt="nethmikaumudi" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=nethmikaumudi" alt="nethmikaumudi" /></a> </p>
