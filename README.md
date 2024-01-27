@@ -13,9 +13,9 @@
     <a href="https://nethmikaumudi.github.io/Professional_Portfolio/">https://nethmikaumudi.github.io/Professional_Portfolio/</a>
     </p>
 
-<p align="right
+<p align="left
  ">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
-<div align="right" style="margintop:20px; @keyframes fadeIn {
+<div align="left" style="margintop:20px; @keyframes fadeIn {
     0% {
       opacity: 0;
       transform: translateY(-20px);
