@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm <span  style="color: #00ADB5;">Nethmi Kaumudi</span> </h1>
  <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&psig=AOvVaw3Xx5XnegsourpJIz8yqhCR&ust=1706457350232000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCujpX3_YMDFQAAAAAdAAAAABAD" alt="Nethmi Kaumudi's Image">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&psig=AOvVaw3Xx5XnegsourpJIz8yqhCR&ust=1706457350232000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCujpX3_YMDFQAAAAAdAAAAABAD">
-<img src="![jobmotivationquoto2](https://github.com/NethmiKaumudi/NethmiKaumudi/assets/118107008/2f9a94e5-89b2-4e03-8519-d1a497938d72)
-">
 
+<img src="![Nethmi Kaumudi's Image](https://example.com/path/to/nethmi-kaumudi-image.jpg)
+">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmikaumudi&label=Profile%20views&color=0e75b6&style=flat" alt="nethmikaumudi" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=nethmikaumudi" alt="nethmikaumudi" /></a> </p>
