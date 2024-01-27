@@ -13,7 +13,8 @@
     <a href="https://nethmikaumudi.github.io/Professional_Portfolio/">https://nethmikaumudi.github.io/Professional_Portfolio/</a>
     </p>
 
-<p align="left">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
+<p align="right
+ ">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
 <div align="right" style="margintop:20px; @keyframes fadeIn {
     0% {
       opacity: 0;
@@ -24,7 +25,7 @@
       transform: translateY(0);
     }
   }">
-   <img  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706313600&semt=sph"height="150" width="200">
+   <img  src="https://thumbs.dreamstime.com/b/%C3%A9criture-9812125.jpg"height="150" width="200">
 
  </div>
 <h3 align="center" style="color:#00ADB5; margingtop:20px;" >Connect with me:</h3>
@@ -38,6 +39,19 @@
 <a href="https://www.leetcode.com/nethmikaumudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nethmikaumudi" height="30" width="40" /></a>
         <!-- Add other social media links here -->
     </p>
+    <div align="right" style="margintop:20px; @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }">
+   <img  src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706313600&semt=sph"height="150" width="200">
+
+ </div>
  <h3 align="center">Languages and Tools:</h3>
    <p align="center">
     <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="80" >
