@@ -46,10 +46,15 @@
 
    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="50" width="60" >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" height="50" width="60" >
+    <img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" height="50" width="60" >
+    <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" height="50" width="60" >
+    <img src="https://i1.wp.com/blog.alexdevero.com/wp-content/uploads/2018/12/react-native-expo-how-to-build-your-first-mobile-app.jpg?fit=1024%2C635&ssl=1" height="50" width="60" >
+    <img src="https://static-00.iconduck.com/assets.00/spring-icon-128x128-6j39mt7l.png" height="50" width="60" >
+  <img src="https://assets-global.website-files.com/6377ac1a39ff1e65214224e5/64c96b0d2785e6db2d22a4c4_spring-boot.png" height="50" width="60" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="50" width="60" >
+    <img src="https://www.svgrepo.com/show/376318/flutter.svg" height="50" width="60" >
     <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
-    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
-    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
-    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
+     <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
 
 
 </p>
