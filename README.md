@@ -52,9 +52,12 @@
     <img src="https://static-00.iconduck.com/assets.00/spring-icon-128x128-6j39mt7l.png" height="50" width="60" >
   <img src="https://assets-global.website-files.com/6377ac1a39ff1e65214224e5/64c96b0d2785e6db2d22a4c4_spring-boot.png" height="50" width="60" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" height="50" width="60" >
-    <img src="https://www.svgrepo.com/show/376318/flutter.svg" height="50" width="60" >
-    <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
-     <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="50" width="60" >
+    <img src="https://www.svgrepo.com/show/376318/flutter.svg" height="50" width="70" >
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVaIKavH0hnbXWmsmJMSU8BX6rfTZim7Pr2oxsGik4wLAygYeGHXsgYpi-wi588v6x8Ko&usqp=CAU" height="50" width="60" >
+     <img src="https://www.svgrepo.com/show/374144/typescript.svg" height="50" width="60" >
+          <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" height="50" width="60" >
+
+     
 
 
 </p>
