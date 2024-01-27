@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nethmi Kaumudi</h1>
  <h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
-<img src="https://github.com/NethmiKaumudi/NethmiKaumudi/blob/main/assets/118107008/f8fbea0b-2488-4050-a96e-b55ff93a7e94.jpg" alt="Nethmi Kaumudi's Image">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2413754-Coding&psig=AOvVaw3Xx5XnegsourpJIz8yqhCR&ust=1706457350232000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCujpX3_YMDFQAAAAAdAAAAABAD" alt="Nethmi Kaumudi's Image">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethmikaumudi&label=Profile%20views&color=0e75b6&style=flat" alt="nethmikaumudi" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
                 src="https://github-profile-trophy.vercel.app/?username=nethmikaumudi" alt="nethmikaumudi" /></a> </p>
