@@ -64,8 +64,8 @@
 
 
 </p>
- <div align="center">
-   <img  src="https://github.com/NethmiKaumudi/NethmiKaumudi/assets/118107008/1b237f14-94de-41fc-b94e-d7e025f20581"height="100" width="160">
+ <div align="center" style="margintop:20px">
+   <img  src="https://github.com/NethmiKaumudi/NethmiKaumudi/assets/118107008/1b237f14-94de-41fc-b94e-d7e025f20581"height="150" width="200">
 
  </div>
 
