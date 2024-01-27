@@ -15,7 +15,7 @@
 
 <p align="left
  ">How to reach me: <a href="mailto:nethmikaumudi7@gmail.com">nethmikaumudi7@gmail.com</a></p>
-<div align="left" style="margintop:20px; @keyframes fadeIn {
+<div align="left" style="margintop:20px; borderradius:10px; @keyframes fadeIn {
     0% {
       opacity: 0;
       transform: translateY(-20px);
@@ -25,7 +25,7 @@
       transform: translateY(0);
     }
   }">
-   <img  src="https://thumbs.dreamstime.com/b/%C3%A9criture-9812125.jpg"height="150" width="200">
+   <img  src="https://thumbs.dreamstime.com/b/%C3%A9criture-9812125.jpg"height="100" width="200">
 
  </div>
 <h3 align="center" style="color:#00ADB5; margingtop:20px;" >Connect with me:</h3>
