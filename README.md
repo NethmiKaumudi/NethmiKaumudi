@@ -40,9 +40,9 @@
 
    <img src="https://img-c.udemycdn.com/course/750x422/3567325_01ea.jpg" height="50" width="60" >
 
-   <img src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" height="50" width="60" >
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnXeSIxwmypqbygvJQEQJdTyH5yUPJ_Cx3Gg&usqp=CAU" height="50" width="60" >
 
-   <img src="https://assets.stickpng.com/images/58480887cef1014c0b5e48ec.png" height="50" width="60" >
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrf853NWrpSgxZRAb49QrsAjAQF2C4UHz7fjBDYq8_iknKN8QzYkucMIUZpDLP0NsnHw&usqp=CAU" height="50" width="60" >
 
    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" height="50" width="60" >
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" height="50" width="60" >
